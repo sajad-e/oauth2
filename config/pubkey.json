@@ -1,0 +1,5 @@
+{
+    "pubkey_url": "YOUR PUBKEY API URL (EX: http://example.com/api/.well-known/jwks.json)",
+    "success_delay": 10800,
+    "failed_delay": 10
+}

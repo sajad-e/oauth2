@@ -1,0 +1,6 @@
+{
+    "name": {
+        "method": "HTTP METHOD (POST, GET, ...)",
+        "route": "/route"
+    }
+}
